@@ -1,3 +1,4 @@
-# Добавляйте HWID по одному на строку
-
+# ARELUX HWID Database
+# Add registered HWIDs here
 ARELUX-FB96-79E5
+# Format: ARELUX-XXXX-XXXX-XXXX
