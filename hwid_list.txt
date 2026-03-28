@@ -1,4 +1,4 @@
-version 0.2.0
+version 0.3.0
 C473-F67:dev
 C473-F6347:des
 C473-F627:det
